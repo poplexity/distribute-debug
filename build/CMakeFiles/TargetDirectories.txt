@@ -1,0 +1,5 @@
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/contracts_project.dir
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/eosio.tedp.wasm.dir
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/contracts_unit_tests.dir
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/edit_cache.dir
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/rebuild_cache.dir

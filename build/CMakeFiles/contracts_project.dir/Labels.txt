@@ -1,0 +1,14 @@
+# Target labels
+ contracts_project
+# Source files and their labels
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/contracts_project
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/contracts_project.rule
+/Users/jesse/repos/telos-distribute/build/CMakeFiles/contracts_project-complete.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-build.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-configure.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-download.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-install.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-mkdir.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-patch.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-test.rule
+/Users/jesse/repos/telos-distribute/build/contracts_project-prefix/src/contracts_project-stamp/contracts_project-update.rule
